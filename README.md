@@ -277,6 +277,8 @@ Python is widely used for:
 #### Verification
 ```bash
 python --version
+```
+
 
 If the version appears, Python is installed successfully.
 
