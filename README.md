@@ -171,7 +171,7 @@ Supports:
 
 ```python
 a = 10
-print(type(a))
+print(type(a))```
 
 ## Python Automatically Identifies Data Types
 
